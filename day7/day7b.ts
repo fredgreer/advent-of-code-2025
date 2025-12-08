@@ -35,7 +35,6 @@ const main = async () => {
   //     encoding: "utf8",
   //   });
   const input: string = await readFile("day7_input.txt", { encoding: "utf8" });
-  console.log(input);
   const rows = input.split("\n");
 
   const initialPath = rows[0].indexOf("S");
