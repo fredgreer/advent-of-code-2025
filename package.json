@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fredgreer/advent-of-code-2025",
+  "author": "Fred Greer <fredgreer@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yalps": "^0.6.3"
+  }
+}
